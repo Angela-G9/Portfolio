@@ -10,7 +10,7 @@ const Navbar = () => {
           <a href="#services">Services</a>
           <a href="#projects">Projects</a>
           <a href="#contact">Contact</a>
-          <a href="/docs/Angela_Gathoni_CV.pdf" download="Angela_Gathoni_CV.pdf" className="nav-cta">📄 CV</a>
+          <a href="https://www.linkedin.com/in/angela-gathoni-62974a332/" target="_blank" rel="noopener noreferrer" title="LinkedIn">🔗 LinkedIn</a>
         </div>
       </div>
     </nav>

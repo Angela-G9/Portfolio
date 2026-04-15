@@ -10,7 +10,6 @@ const ContactStrip = () => {
         </div>
 
         <div style={{marginTop:12,color:'var(--muted)'}}>
-          <div><strong>Phone:</strong> <span style={{color:'var(--accent)'}}>+254 729 483 248</span></div>
           <div style={{marginTop:6}}><strong>Location:</strong> <span style={{color:'var(--accent)'}}>Nairobi, Kenya</span></div>
         </div>
       </div>
